@@ -7,7 +7,7 @@
   "profiles": [],
   "package_name": "PauliusKup.Language",
   "graphicalMode": false,
-  "version": "1.0",
+  "version": "0.0.1",
   "numThreads": 4,
   "buildPath": [{
     "path": "src",
