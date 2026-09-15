@@ -1,0 +1,5 @@
+"Language"
+"PauliusKup.Language.ILanguageService"
+"PauliusKup.Language.LanguageService"
+"PauliusKup.Language.ILanguageRepository"
+"PauliusKup.Language.LanguageRepository"

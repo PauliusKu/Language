@@ -1,0 +1,17 @@
+{
+  "charset": "utf-8",
+  "dbConnections": [],
+  "oeversion": "12.8",
+  "procedures": [],
+  "name": "Language",
+  "profiles": [],
+  "package_name": "Language",
+  "graphicalMode": false,
+  "version": "1.0",
+  "numThreads": 4,
+  "buildPath": [{
+    "path": "src",
+    "type": "source"
+  }],
+  "dependencies": {}
+}

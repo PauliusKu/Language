@@ -1,0 +1,9 @@
+BLOCK-LEVEL ON ERROR UNDO, THROW.
+
+USING PauliusKup.Language.Language.
+
+INTERFACE PauliusKup.Language.ILanguageRepository:
+  METHOD PUBLIC Language GetByID(pcID AS CHARACTER).
+  METHOD PUBLIC Language GetByISO(pcISO AS CHARACTER).
+  METHOD PUBLIC Language GetByNameEn(pcNameEn AS CHARACTER).
+END INTERFACE.
