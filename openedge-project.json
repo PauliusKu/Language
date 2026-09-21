@@ -5,7 +5,7 @@
   "procedures": [],
   "name": "Language",
   "profiles": [],
-  "pope_package_name": "PauliusKup.Language",
+  "popePackageName": "PauliusKup.Language",
   "graphicalMode": false,
   "version": "0.0.1",
   "numThreads": 4,
@@ -13,5 +13,5 @@
     "path": "src",
     "type": "source"
   }],
-  "pope_dependencies": {}
+  "popeDependencies": {}
 }
